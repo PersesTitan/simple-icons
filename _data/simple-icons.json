@@ -7503,6 +7503,11 @@
             "source": "https://www.ottogroup.com/en/presse/material.php"
         },
         {
+            "title": "OTLanguage",
+            "hex": "A900FF",
+            "source": "https://github.com/PersesTitan/simple-icons/blob/develop/icons/OTLanguage.svg"
+        },
+        {
             "title": "Overcast",
             "hex": "FC7E0F",
             "source": "https://overcast.fm"
